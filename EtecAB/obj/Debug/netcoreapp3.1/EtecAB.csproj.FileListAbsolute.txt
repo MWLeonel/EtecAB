@@ -1,0 +1,13 @@
+C:\Users\Max Leonel\Desktop\EtecAB\EtecAB\bin\Debug\netcoreapp3.1\EtecAB.exe
+C:\Users\Max Leonel\Desktop\EtecAB\EtecAB\bin\Debug\netcoreapp3.1\EtecAB.deps.json
+C:\Users\Max Leonel\Desktop\EtecAB\EtecAB\bin\Debug\netcoreapp3.1\EtecAB.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\EtecAB\EtecAB\bin\Debug\netcoreapp3.1\EtecAB.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\EtecAB\EtecAB\bin\Debug\netcoreapp3.1\EtecAB.dll
+C:\Users\Max Leonel\Desktop\EtecAB\EtecAB\bin\Debug\netcoreapp3.1\EtecAB.pdb
+C:\Users\Max Leonel\Desktop\EtecAB\EtecAB\obj\Debug\netcoreapp3.1\EtecAB.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\EtecAB\EtecAB\obj\Debug\netcoreapp3.1\EtecAB.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\EtecAB\EtecAB\obj\Debug\netcoreapp3.1\EtecAB.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\EtecAB\EtecAB\obj\Debug\netcoreapp3.1\EtecAB.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\EtecAB\EtecAB\obj\Debug\netcoreapp3.1\EtecAB.dll
+C:\Users\Max Leonel\Desktop\EtecAB\EtecAB\obj\Debug\netcoreapp3.1\EtecAB.pdb
+C:\Users\Max Leonel\Desktop\EtecAB\EtecAB\obj\Debug\netcoreapp3.1\EtecAB.genruntimeconfig.cache
